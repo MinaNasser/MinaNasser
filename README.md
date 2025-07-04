@@ -4,9 +4,6 @@
 </div>
 
 <hr>
-
-
-
 ### 👨‍💻 About Me
 
 <h3 align="center">Software Engineer | .NET Developer | Full Stack | Mobile Developer</h3>
