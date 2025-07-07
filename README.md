@@ -7,7 +7,7 @@
 
 👨‍💻 **About Me**
 
-<h3 align="center">.NET Full Stack Developer | Software Engineer | .NET Developer | Full Stack | Mobile Developer </h3>
+<h3 align="center">.NET Full Stack Developer | Software Engineer | Mobile Developer | MEAN Stack Developer, CRM Developer, BI Analyst, BI Specialist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=.NET+Full-Stack+Web+Developer;MEAN+Stack+Developer;CRM+Developer;BI+Analyst;BI+Specialist;Computer+Science" alt="Typing SVG" />
