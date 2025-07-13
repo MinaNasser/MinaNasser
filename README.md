@@ -4,10 +4,7 @@
 </div>
 
 <hr>
-
 👨‍💻 **About Me**
-
-
 <h3 align="center">
   .NET Full Stack Developer 
   | Software Engineer 
