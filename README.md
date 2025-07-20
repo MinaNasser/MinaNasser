@@ -16,9 +16,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=.NET+Full-Stack+Web+Developer;MEAN+Stack+Developer;CRM+Developer;Mobile+Developer;BI+Analyst;BI+Specialist;Computer+Science" alt="Typing SVG" />
 </p>
-
-
-
 - 🌱 I’m currently learning **Frameworks** <br/>
 - 👨‍💻 All of my projects are available at [portfolio](https://portfolio-website-pearl-five-19.vercel.app/) <br/>
 - 📫 How to reach me: **minanasser82018@gmail.com** <br/>
