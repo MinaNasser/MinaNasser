@@ -1,10 +1,10 @@
 <div align="center">
   <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=460&lines=HI%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;&color=FF0000;&" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=460&lines=HI%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;&color=8B5CF6;&" alt="Typing animation" />
 </div>
 <hr>
 👨‍💻 About Me
-<h3 align="center">
+<h3 align="center" style="font-weight: 500; font-size: 24px; ">
   .NET Full Stack Developer 
   | Software Engineer 
   | MEAN Stack Developer 
@@ -14,7 +14,7 @@
   | Mobile Developer
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=.NET+Full-Stack+Web+Developer;MEAN+Stack+Developer;CRM+Developer;Mobile+Developer;BI+Analyst;BI+Specialist;Computer+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=.NET+Full-Stack+Web+Developer;MEAN+Stack+Developer;CRM+Developer;Mobile+Developer;BI+Analyst;BI+Specialist;Computer+Science" alt="Typing SVG" />
 </p>
 - 🌱 I’m currently learning **Frameworks** <br/>
 - 👨‍💻 All of my projects are available at [portfolio](https://portfolio-website-pearl-five-19.vercel.app/) <br/>
@@ -178,7 +178,6 @@
 img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/ -->
 
 <!-- </div>
-
 <hr> -->
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&locale=en"/>
@@ -197,7 +196,7 @@ img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=tr
  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="100px"> GitHub Stats
 </div> -->
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30"> **GitHub Stats**
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30px"> **GitHub Stats**
 
 <p align="center">
 </p>
@@ -206,20 +205,21 @@ img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=tr
         <img src="https://streak-stats.demolab.com?user=minanasser&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="GitHub Streak" width="49%" height =100% />
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="mina nasser" />
     </div>
+    <hr>
       <p align="center">
         <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="Top Languages" />
       </p>
 </div>
 
-<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> GitHub Trophies
+<hr>
+<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"> GitHub Trophies
 
-<div align="center">
-
+<!-- <div align="center">
 <hr>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=3&column=5)
 
-</div>
+</div> -->
 
 <!-- Snake eating my contributions -->
 <p align="center">
