@@ -29,9 +29,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-
-
- 
   <a href="https://www.linkedin.com/in/mina-nasser-al5al/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
@@ -81,6 +78,7 @@
 </p>
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
+
 <!-- # 💻 Tech Stack -->
 
 ### **🖥️ Frontend**
@@ -104,7 +102,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -185,32 +182,34 @@ img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=tr
 <hr> -->
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&locale=en"/>
-  
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minanasser"  />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minanasser&show_icons=true&locale=en&layout=compact"  /> -->
-<!-- 
+<!--
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=donut)](https://github.com/minanasser/github-readme-stats)
-  
-</div> --> 
+
+</div> -->
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minanasser&show_icons=true&locale=en&layout=compact"  />
   </p> -->
 
-
-
-
 <!-- <div align="center">
  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="100px"> GitHub Stats
 </div> -->
+
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30"> **GitHub Stats**
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=tokyonight" alt="mina nasser" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=minanasser&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-<p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
+    <div align="center" style="display: flex; justify-content: center; align-items: center;" >
+        <img src="https://streak-stats.demolab.com?user=minanasser&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="GitHub Streak" width="49%" height =100% />
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="mina nasser" />
+    </div>
+      <p align="center">
+        <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="Top Languages" />
+      </p>
+</div>
 
 <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> GitHub Trophies
 
@@ -219,14 +218,13 @@ img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=tr
 <hr>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=3&column=5)
+
 </div>
 
 <!-- Snake eating my contributions -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
-
-
 
 <br/>
 <p align="center">
