@@ -202,7 +202,11 @@ img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=tr
 </p>
 <div align="center">
     <div align="center" style="display: flex; justify-content: center; align-items: center;" >
-        <img src="https://streak-stats.demolab.com?user=minanasser&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="GitHub Streak" width="49%" height =100% />
+        <!-- streak -->
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=minanasser&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="GitHub Streak" width="49%" height =100% />
+        <!-- stats
+        <img src="https://streak-stats.demolab.com?user=minanasser&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="GitHub Streak" width="49%" height =100% /> -->
+        <!-- streak anther way -->
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="mina nasser" />
     </div>
     <hr>
