@@ -199,23 +199,44 @@ img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=tr
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30px"> **GitHub Stats**
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=minanasser&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="Mina Nasser's GitHub Stats" width="49%" />
 </p>
-<div align="center">
-    <div align="center" style="display: flex; justify-content: center; align-items: center;" >
-        <!-- streak -->
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=minanasser&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="GitHub Streak" width="49%" height =100% />
-        <!-- stats
-        <img src="https://streak-stats.demolab.com?user=minanasser&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="GitHub Streak" width="49%" height =100% /> -->
-        <!-- streak anther way -->
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="mina nasser" />
-    </div>
-    <hr>
-      <p align="center">
-        <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="Top Languages" />
-      </p>
-</div>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="Top Languages" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" width="49%" /> 
+</p>
+
+<!--
+<hr>
 
 <hr>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minanasser&theme=radical" alt="Profile Details" width="49%" height="200px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minanasser&theme=radical" alt="Most Commit Language" width="49%" height="200px" />
+</p>
+<hr>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minanasser&theme=radical" alt="Repos per Language" width="49%" height="200px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minanasser&theme=radical" alt="Most Commit Language" width="49%" height="200px" />
+</p>
+<hr>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minanasser&theme=radical" alt="GitHub Stats" width="49%" height="200px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minanasser&theme=radical&utcOffset=8" alt="Productive Time" width="49%" height="200px" />
+</p>
+<hr>
+<p align="center">
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"> GitHub Trophies
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=3&column=5" alt="GitHub Trophies" />
+</p>
+<hr>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" alt="Footer" />
+</p> -->
+
 <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"> GitHub Trophies
 
 <!-- <div align="center">
