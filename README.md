@@ -18,7 +18,6 @@
 </p>
 
 
-
 <hr>
 - 🌱 I’m currently learning Frameworks <br/>
 - 👨‍💻 All of my projects are available at [portfolio](https://portfolio-website-pearl-five-19.vercel.app/) <br/>
