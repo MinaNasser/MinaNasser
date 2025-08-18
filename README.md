@@ -241,11 +241,11 @@ img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=tr
 <hr>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" alt="Footer" />
-</p> -->
+</p>
 
 <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"> GitHub Trophies
 
-<!-- <div align="center">
+ <div align="center">
 <hr>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=3&column=5)
