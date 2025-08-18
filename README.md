@@ -252,10 +252,11 @@ img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=tr
 
 </div> -->
 
-<!-- Snake eating my contributions -->
+<!-- Snake eating my contributions 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
+-->
 
 <br/>
 <p align="center">
