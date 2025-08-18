@@ -46,46 +46,7 @@
    [🌐 Portfolio](https://portfolio-website-pearl-five-19.vercel.app/)
  
   
-  <!--
-  <a href="https://twitter.com/minaal5al" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
-  <a href="https://codepen.io/mina-nasser-the-sans" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" />
-  </a>
-  <a href="https://dev.to/minaal5al" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="30" width="40" />
-  </a>-->
-  
-  <!--
-  <a href="https://stackoverflow.com/users/18736521/mina-nasser?tab=profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" />
-  </a>
-  <a href="https://codesandbox.io/u/minaal5al" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/minanasseral5al" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
-  
-  </a>
-  https://www.instagram.com/mina_al5al/
 
-  <a href="https://medium.com/@minaal5al" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
-  </a>
-
-  <a href="https://rss.app/feeds/nkyf2mz5460n56od.xml" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="rss" height="30" width="40" />
-  </a>
-  
-  -->
-  
-  
-</p>
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
-
-<!-- # 💻 Tech Stack -->
 
 ### **🖥️ Frontend**
 
@@ -142,6 +103,107 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
+
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30px"> **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=minanasser&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="Mina Nasser's GitHub Stats" width="49%" />
+</p>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="Top Languages" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" width="49%" /> 
+</p>
+<br/>
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" alt="Footer" />
+</p>
+
+  <!--
+  <a href="https://twitter.com/minaal5al" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+  </a>
+  <a href="https://codepen.io/mina-nasser-the-sans" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" />
+  </a>
+  <a href="https://dev.to/minaal5al" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="30" width="40" />
+  </a>-->
+  
+  <!--
+  <a href="https://stackoverflow.com/users/18736521/mina-nasser?tab=profile" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" />
+  </a>
+  <a href="https://codesandbox.io/u/minaal5al" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/minanasseral5al" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
+  
+  </a>
+  https://www.instagram.com/mina_al5al/
+
+  <a href="https://medium.com/@minaal5al" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
+  </a>
+
+  <a href="https://rss.app/feeds/nkyf2mz5460n56od.xml" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="rss" height="30" width="40" />
+  </a>
+  
+  -->
+  
+  
+</p>
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
+
+<!-- # 💻 Tech Stack -->
+
+<!--
+<hr>
+
+<hr>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minanasser&theme=radical" alt="Profile Details" width="49%" height="200px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minanasser&theme=radical" alt="Most Commit Language" width="49%" height="200px" />
+</p>
+<hr>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minanasser&theme=radical" alt="Repos per Language" width="49%" height="200px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minanasser&theme=radical" alt="Most Commit Language" width="49%" height="200px" />
+</p>
+<hr>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minanasser&theme=radical" alt="GitHub Stats" width="49%" height="200px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minanasser&theme=radical&utcOffset=8" alt="Productive Time" width="49%" height="200px" />
+</p>
+<hr>
+<p align="center">
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"> GitHub Trophies
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=3&column=5" alt="GitHub Trophies" />
+</p>
+<hr>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" alt="Footer" />
+</p>
+
+<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"> GitHub Trophies
+
+ <div align="center">
+<hr>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=3&column=5)
+
+</div> -->
+
+<!-- Snake eating my contributions 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
+-->
 
 <!-- ### 🐍 Contribution Snake 
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
@@ -200,64 +262,3 @@ img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=tr
 <!-- <div align="center">
  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="100px"> GitHub Stats
 </div> -->
-
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30px"> **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=minanasser&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="Mina Nasser's GitHub Stats" width="49%" />
-</p>
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="Top Languages" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" width="49%" /> 
-</p>
-
-<!--
-<hr>
-
-<hr>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minanasser&theme=radical" alt="Profile Details" width="49%" height="200px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minanasser&theme=radical" alt="Most Commit Language" width="49%" height="200px" />
-</p>
-<hr>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minanasser&theme=radical" alt="Repos per Language" width="49%" height="200px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minanasser&theme=radical" alt="Most Commit Language" width="49%" height="200px" />
-</p>
-<hr>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minanasser&theme=radical" alt="GitHub Stats" width="49%" height="200px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minanasser&theme=radical&utcOffset=8" alt="Productive Time" width="49%" height="200px" />
-</p>
-<hr>
-<p align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"> GitHub Trophies
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=3&column=5" alt="GitHub Trophies" />
-</p>
-<hr>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" alt="Footer" />
-</p>
-
-<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"> GitHub Trophies
-
- <div align="center">
-<hr>
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=3&column=5)
-
-</div> -->
-
-<!-- Snake eating my contributions 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</p>
--->
-
-<br/>
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" alt="Footer" />
-</p>
