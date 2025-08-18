@@ -150,13 +150,13 @@
   <a href="https://rss.app/feeds/nkyf2mz5460n56od.xml" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="rss" height="30" width="40" />
   </a>
-  
+  </p>
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
+
   -->
   
   
-</p>
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
 
 <!-- # 💻 Tech Stack -->
 
