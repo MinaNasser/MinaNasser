@@ -4,7 +4,7 @@
 </div>
 <hr>
 👨‍💻 About Me
-<h3 align="center" style="font-weight: 500; font-size: 24px ;color=8B5CF6;">
+<h3 align="center" style="font-weight: 500; font-size: 24px ; color:#8B5CF6;">
   .NET Full Stack Developer 
   
   | Software Engineer 
