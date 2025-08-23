@@ -4,8 +4,9 @@
 </div>
 <hr>
 👨‍💻 About Me
-<h3 align="center" style="font-weight: 500; font-size: 24px; ">
+<h3 align="center" style="font-weight: 500; font-size: 24">
   .NET Full Stack Developer 
+  
   | Software Engineer 
   | MEAN Stack Developer 
   | CRM Developer 
