@@ -2,7 +2,6 @@
   <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=460&lines=HI%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;&color=8B5CF6;&" alt="Typing animation" />
 </div>
-
 <hr>
 👨‍💻 About Me
 <h3 align="center" style="font-weight: 500; font-size: 24px ; color:#8B5CF6;">
