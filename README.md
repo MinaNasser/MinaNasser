@@ -110,8 +110,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" width="49%" /> 
 </p>
 
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&rank=S)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" alt="Footer" />
