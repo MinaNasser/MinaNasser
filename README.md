@@ -22,6 +22,9 @@
 - 💼 **LinkedIn:** [Mina Nasser](https://www.linkedin.com/in/mina-nasser-al5al/)  
 <hr>
 
+
+
+
 <!-- add line hr but in .md file  -->
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
