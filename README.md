@@ -1,7 +1,22 @@
 <div align="center">
   <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=460&lines=HI%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;&color=8B5CF6;&" alt="Typing animation" />
+
+
+  
 </div>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET%20Full%20Stack-8B5CF6?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Engineer-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MEAN%20Stack-8B5CF6?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRM%20Developer-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BI%20Analyst-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BI%20Specialist-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile%20Developer-8B5CF6?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
 <hr>
 👨‍💻 About Me
 <h3 align="center" style="font-weight: 500; font-size: 24px ; color:#8B5CF6;">
