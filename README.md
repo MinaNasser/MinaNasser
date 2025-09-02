@@ -56,13 +56,17 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
   </a>
 
-[🌐 Portfolio](https://portfolio-website-pearl-five-19.vercel.app/)
-
+<!--[🌐 Portfolio](https://portfolio-website-pearl-five-19.vercel.app/)
+-->
+<p align="center">
+  
+</p>
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge)](https://portfolio-website-pearl-five-19.vercel.app/)
 
 
 ### **🖥️ Frontend**
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge)](https://portfolio-website-pearl-five-19.vercel.app/)
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
