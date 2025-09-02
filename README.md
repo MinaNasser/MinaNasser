@@ -1,18 +1,10 @@
 <div align="center">
   <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=460&lines=HI%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;&color=8B5CF6;&" alt="Typing animation" />
-
-
-  
 </div>
-
-
-
-
 <hr>
 👨‍💻 About Me
-<br/>
-<br/>
+
 <p align="center">
   <img src="https://img.shields.io/badge/.NET%20Full%20Stack-8B5CF6?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Software%20Engineer-8B5CF6?style=for-the-badge" />
@@ -65,6 +57,8 @@
   </a>
 
 [🌐 Portfolio](https://portfolio-website-pearl-five-19.vercel.app/)
+<a href="https://portfolio-website-pearl-five-19.vercel.app/" target="_blank">🌐 Portfolio</a>
+
 ### **🖥️ Frontend**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
