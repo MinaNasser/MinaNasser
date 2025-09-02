@@ -35,13 +35,14 @@
 - 📧 **Email:** [minanasser82018@gmail.com](mailto:minanasser82018@gmail.com)  
 - 💼 **LinkedIn:** [Mina Nasser](https://www.linkedin.com/in/mina-nasser-al5al/)
 
-  <p align="center">
+<p align="center">
   <a href="https://portfolio-website-pearl-five-19.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge" alt="Portfolio" width="220" height="60"/>
   </a>
 </p>
 
 <hr>
+
 
 
 
