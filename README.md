@@ -33,7 +33,14 @@
 
 ### 📫 Contact Me
 - 📧 **Email:** [minanasser82018@gmail.com](mailto:minanasser82018@gmail.com)  
-- 💼 **LinkedIn:** [Mina Nasser](https://www.linkedin.com/in/mina-nasser-al5al/)  
+- 💼 **LinkedIn:** [Mina Nasser](https://www.linkedin.com/in/mina-nasser-al5al/)
+
+  <p align="center">
+  <a href="https://portfolio-website-pearl-five-19.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge" alt="Portfolio" />
+  </a>
+</p>
+
 <hr>
 
 
@@ -58,11 +65,6 @@
 
 <!--[🌐 Portfolio](https://portfolio-website-pearl-five-19.vercel.app/)
 -->
-<p align="center">
-  <a href="https://portfolio-website-pearl-five-19.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge" alt="Portfolio" />
-  </a>
-</p>
 
 
 
