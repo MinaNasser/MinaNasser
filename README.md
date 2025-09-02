@@ -59,9 +59,9 @@
 <!--[🌐 Portfolio](https://portfolio-website-pearl-five-19.vercel.app/)
 -->
 <p align="center">
-  
+  [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge)](https://portfolio-website-pearl-five-19.vercel.app/)
 </p>
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge)](https://portfolio-website-pearl-five-19.vercel.app/)
+
 
 
 ### **🖥️ Frontend**
