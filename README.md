@@ -28,10 +28,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=.NET+Full-Stack+Web+Developer;MEAN+Stack+Developer;CRM+Developer;Mobile+Developer;BI+Analyst;BI+Specialist;Computer+Science" alt="Typing SVG" />
 </p>
 
-
-
-
-
 ### 📫 Contact Me
 - 📧 **Email:** [minanasser82018@gmail.com](mailto:minanasser82018@gmail.com)  
 - 💼 **LinkedIn:** [Mina Nasser](https://www.linkedin.com/in/mina-nasser-al5al/)
