@@ -14,16 +14,6 @@
   <img src="https://img.shields.io/badge/BI%20Specialist-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mobile%20Developer-8B5CF6?style=for-the-badge&logo=android&logoColor=white" />
 </p>
-<!--<h3 align="center" style="font-weight: 500; font-size: 24px ; color:#8B5CF6;">
-  .NET Full Stack Developer 
-  | Software Engineer 
-  | MEAN Stack Developer 
-  | CRM Developer 
-  | BI Analyst 
-  | BI Specialist 
-  | Mobile Developer
-</h3>
--->
 
 
 
