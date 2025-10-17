@@ -117,16 +117,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" alt="Footer" />
 </p>
 
-  <!--
-  <a href="https://twitter.com/minaal5al" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
-  <a href="https://codepen.io/mina-nasser-the-sans" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" />
-  </a>
-  <a href="https://dev.to/minaal5al" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="30" width="40" />
-  </a>-->
+ 
   
   <!--
   <a href="https://stackoverflow.com/users/18736521/mina-nasser?tab=profile" target="_blank">
