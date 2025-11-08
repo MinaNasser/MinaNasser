@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=460&lines=HI%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;&color=8B5CF6;&" alt="Typing animation" />
 </div>
 
+
+
 <hr>
 👨‍💻 About Me
 <p align="center">
