@@ -115,54 +115,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" alt="Footer" />
 </p>
   
-
-<!-- # 💻 Tech Stack -->
-
-<!--
-<hr>
-
-<hr>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minanasser&theme=radical" alt="Profile Details" width="49%" height="200px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minanasser&theme=radical" alt="Most Commit Language" width="49%" height="200px" />
-</p>
-<hr>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minanasser&theme=radical" alt="Repos per Language" width="49%" height="200px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minanasser&theme=radical" alt="Most Commit Language" width="49%" height="200px" />
-</p>
-<hr>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minanasser&theme=radical" alt="GitHub Stats" width="49%" height="200px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minanasser&theme=radical&utcOffset=8" alt="Productive Time" width="49%" height="200px" />
-</p>
-<hr>
-<p align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"> GitHub Trophies
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=3&column=5" alt="GitHub Trophies" />
-</p>
-<hr>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" alt="Footer" />
-</p>
-
-<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"> GitHub Trophies
-
- <div align="center">
-<hr>
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=3&column=5)
-
-</div> -->
-
-<!-- Snake eating my contributions 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</p>
--->
-
 <!-- ### 🐍 Contribution Snake 
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 <!-- <picture>
