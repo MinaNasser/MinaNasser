@@ -3,7 +3,6 @@
 </div>
 <hr>
 
-
 👨‍💻 About Me
 <p align="center">
   <img src="https://img.shields.io/badge/.NET%20Full%20Stack-8B5CF6?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -17,8 +16,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=.NET+Full-Stack+Web+Developer;MEAN+Stack+Developer;CRM+Developer;Mobile+Developer;BI+Analyst;BI+Specialist;Computer+Science" alt="Typing SVG" />
 </p>
-
-
 
 ### 📫 Contact Me
 - 📧 **Email:** [minanasser82018@gmail.com](mailto:minanasser82018@gmail.com)  
