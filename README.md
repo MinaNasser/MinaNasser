@@ -3,7 +3,6 @@
 </div>
 <hr>
 
-
 👨‍💻 About Me
 <p align="center">
   <img src="https://img.shields.io/badge/.NET%20Full%20Stack-8B5CF6?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -27,6 +26,7 @@
   </a>
 </p>
 
+
 <hr>
 
 <h3 align="left">Connect with me:</h3>
@@ -41,6 +41,7 @@
   <a href="https://www.youtube.com/@al5al207" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
   </a>
+
 
 ### **🖥️ Frontend**
 
