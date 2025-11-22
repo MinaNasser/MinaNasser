@@ -26,8 +26,6 @@
     <img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge" alt="Portfolio" width="220" height="60"/>
   </a>
 </p>
-
-
 <hr>
 
 <h3 align="left">Connect with me:</h3>
