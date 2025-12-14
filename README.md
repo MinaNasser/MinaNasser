@@ -104,8 +104,9 @@
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30px"> **GitHub Stats**
 
 
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=minanasser&theme=dark&hide_border=true&border_radius=6&short_numbers=true&card_width=499)](https://git.io/streakstats)
-
+-->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=minanasser&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="GitHub Streak" width="49%" />
   
