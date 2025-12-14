@@ -104,6 +104,8 @@
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30px"> **GitHub Stats**
 
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=minanasser&theme=dark&hide_border=true&border_radius=6&short_numbers=true&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=minanasser&theme=dark&hide_border=true&border_radius=6&short_numbers=true&card_width=499)](https://git.io/streakstats)
 -->
