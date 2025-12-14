@@ -104,7 +104,7 @@
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30px"> **GitHub Stats**
 
 <p align="center">
-   [![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&hide_border=true&border_radius=6&short_numbers=true&card_width=499)]      (https://git.io/streakstats)
+   [![GitHub Streak](https://streak-stats.demolab.com?user=MinaNasser&theme=dark&hide_border=true&border_radius=6&short_numbers=true&card_width=499)]      (https://git.io/streakstats)
 </p>
 
 
