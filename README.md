@@ -104,6 +104,14 @@
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=minanasser&theme=dark&hide_border=true&border_radius=6&short_numbers=true&card_width=499)](https://git.io/streakstats)
 -->
+
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Minanasser&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=Minanasser&theme=default" />
+</picture>
+
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=minanasser&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="GitHub Streak" width="49%" />
   
