@@ -107,8 +107,8 @@
 
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Minanasser&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=Minanasser&theme=default" />
+    <source media="(prefers-color-scheme: synthwave)" srcset="https://streak-stats.demolab.com?user=Minanasser&theme=synthwave" />
+    <img src="https://streak-stats.demolab.com?user=Minanasser&theme=synthwave" />
 </picture>
 
 
