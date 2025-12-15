@@ -106,18 +106,15 @@
 -->
 
 
-<picture>
+<!-- <picture>
     <source media="(prefers-color-scheme: synthwave)" srcset="https://streak-stats.demolab.com?user=Minanasser&theme=synthwave" />
     <img src="https://streak-stats.demolab.com?user=Minanasser&theme=synthwave" />
-</picture>
-
+</picture> -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minanasser&theme=radical)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=minanasser&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="GitHub Streak" width="49%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="Mina Nasser's GitHub Stats" width="49%" />
-  
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="Top Languages" width="49%" />
   
