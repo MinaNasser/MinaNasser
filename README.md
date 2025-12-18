@@ -100,24 +100,29 @@
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30px"> **GitHub Stats**
 
   <!-- <img src="https://raw.githubusercontent.com/minanasser/github-readme-streak-stats/output/github-readme-streak-stats.svg" alt="GitHub Streak" width="49%" /> -->
-  <hr>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/minanasser/github-readme-streak-stats/output/github-readme-streak-stats.svg" alt="GitHub Streak" width="49%" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="Top Languages" width="49%" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="49%" />
 </p>
 <hr> 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=minanasser&theme=dark&hide_border=true&border_radius=6&short_numbers=true&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+
+
+
+
+
+
+
+
+
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=minanasser&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="GitHub Streak" width="49%" />
-
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="Top Languages" width="49%" />
-  
   <img src="https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" width="49%" /> 
 </p>  -->
 
