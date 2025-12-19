@@ -114,6 +114,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MinaNasser&theme=highcontrast&hide_border=true&border_radius=10&short_numbers=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MinaNasser&theme=dark)](https://git.io/streak-stats)
 
 
 
