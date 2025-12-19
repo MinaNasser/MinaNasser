@@ -119,13 +119,13 @@
   <!-- Top Languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=radical&background=000000&border=8B5CF6&hide_border=true"
-    width="48%"
+    width="100%"
   />
 
   <!-- GitHub Stats -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=radical&card_height=170&hide_border=true&include_all_commits=true"
-    width="48%"
+    width="100%"
   />
 </p>
 
