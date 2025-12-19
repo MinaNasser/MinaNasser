@@ -101,20 +101,36 @@
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30px"> **GitHub Stats**
 
-  <!-- <img src="https://raw.githubusercontent.com/minanasser/github-readme-streak-stats/output/github-readme-streak-stats.svg" alt="GitHub Streak" width="49%" /> -->
+<!-- GitHub Streak - Full Width -->
+<p align="center">
+  <p align="center">
+  <img
+    src="https://github-readme-streak-stats-psi-eosin.vercel.app?user=MinaNasser&theme=radical&border_radius=16&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=220&ring=FF6EC7&fire=FF6EC7&currStreakNum=FFFFFF&sideNums=CCCCCC&currStreakLabel=FF6EC7&sideLabels=AAAAAA&dates=888888"
+    alt="GitHub Streak"
+    width="100%"
+  />
+</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/minanasser/github-readme-streak-stats/output/github-readme-streak-stats.svg" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="Top Languages" width="49%" />
+ <!-- [![GitHub Streak](https://github-readme-streak-stats-psi-eosin.vercel.app?user=MinaNasser&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)-->
 </p>
+
+
+<!-- Top Languages + Trophies Side by Side -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="49%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=radical&background=000000&border=8B5CF6"
+    alt="Top Languages"
+    width="49%"
+  />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"
+    width="49%"
+  />
 </p>
+
 <hr> 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MinaNasser&theme=highcontrast&hide_border=true&border_radius=10&short_numbers=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MinaNasser&theme=dark)](https://git.io/streak-stats)
 
 
 
