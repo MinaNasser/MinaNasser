@@ -115,22 +115,21 @@
 </p>
 
 
-<!-- Top Languages - Full Width -->
 <p align="center">
+  <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=radical&background=000000&border=8B5CF6"
-    alt="Top Languages"
-    width="100%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=radical&background=000000&border=8B5CF6&hide_border=true"
+    width="48%"
+  />
+
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=radical&card_height=170&hide_border=true&include_all_commits=true"
+    width="48%"
   />
 </p>
 
-<!-- GitHub Trophies - Full Width -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=radical"
-    width="100%"
-  />
-</p>
+
 
 
 <hr> 
