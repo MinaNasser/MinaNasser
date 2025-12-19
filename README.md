@@ -1,213 +1,145 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=460&lines=HI%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;&color=8B5CF6;&" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=460&lines=HI%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;&color=8B5CF6" alt="Typing Animation" />
 </div>
+
 <hr>
-👨‍💻 About Me
+
+## 👨‍💻 About Me
+
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET%20Full%20Stack-8B5CF6?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software%20Engineer-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MEAN%20Stack-8B5CF6?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRM%20Developer-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BI%20Analyst-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BI%20Specialist-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile%20Developer-8B5CF6?style=for-the-badge&logo=android&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=.NET+Full-Stack+Web+Developer;MEAN+Stack+Developer;CRM+Developer;Mobile+Developer;BI+Analyst;BI+Specialist;Computer+Science" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/.NET%20Full%20Stack-8B5CF6?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Full Stack" />
+  <img src="https://img.shields.io/badge/Software%20Engineer-8B5CF6?style=for-the-badge" alt="Software Engineer" />
+  <img src="https://img.shields.io/badge/MEAN%20Stack-8B5CF6?style=for-the-badge&logo=mongodb&logoColor=white" alt="MEAN Stack" />
+  <img src="https://img.shields.io/badge/CRM%20Developer-8B5CF6?style=for-the-badge" alt="CRM Developer" />
+  <img src="https://img.shields.io/badge/BI%20Analyst-8B5CF6?style=for-the-badge" alt="BI Analyst" />
+  <img src="https://img.shields.io/badge/BI%20Specialist-8B5CF6?style=for-the-badge" alt="BI Specialist" />
+  <img src="https://img.shields.io/badge/Mobile%20Developer-8B5CF6?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Developer" />
 </p>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=.NET+Full-Stack+Web+Developer;MEAN+Stack+Developer;CRM+Developer;Mobile+Developer;BI+Analyst;BI+Specialist;Computer+Science" alt="Roles Typing SVG" />
+</p>
 
 ### 📫 Contact Me
 - 📧 **Email:** [minanasser82018@gmail.com](mailto:minanasser82018@gmail.com)  
 - 💼 **LinkedIn:** [Mina Nasser](https://www.linkedin.com/in/mina-nasser-al5al/)
+
 <p align="center">
   <a href="https://portfolio-website-pearl-five-19.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge" alt="Portfolio" width="220" height="60"/>
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge" alt="Portfolio" width="220" height="60" />
   </a>
 </p>
+
 <hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
+## 🤝 Connect with Me
+<p align="center">
   <a href="https://www.linkedin.com/in/mina-nasser-al5al/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
   </a>
   <a href="https://www.instagram.com/mina_al5al/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40" />
   </a>
   <a href="https://www.youtube.com/@al5al207" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="40" />
   </a>
+</p>
 
+<hr>
 
-
+## 🛠️ Tech Stack
 
 ### **🖥️ Frontend**
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **🔧 Backend & APIs**
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 ### **🛢️ Databases**
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### **☁️ DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### **🧰 Tools & Platforms**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
 ### **🎨 Design**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
+<hr>
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30px"> **GitHub Stats**
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30px"> GitHub Stats
 
-<!-- GitHub Streak - Full Width -->
 <p align="center">
-  <p align="center">
   <img
-    src="https://github-readme-streak-stats-psi-eosin.vercel.app?user=MinaNasser&theme=radical&border_radius=16&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=220&ring=FF6EC7&fire=FF6EC7&currStreakNum=FFFFFF&sideNums=CCCCCC&currStreakLabel=FF6EC7&sideLabels=AAAAAA&dates=888888"
-    alt="GitHub Streak"
+    src="https://github-readme-streak-stats-psi-eosin.vercel.app?user=MinaNasser&theme=radical&border_radius=14&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=220"
     width="100%"
   />
-</p>
-
- <!-- [![GitHub Streak](https://github-readme-streak-stats-psi-eosin.vercel.app?user=MinaNasser&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)-->
 </p>
 
 
 <p align="center">
   <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=radical&background=000000&border=8B5CF6&hide_border=true"
-    width="100%"
-  />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=radical&background=000000&border=8B5CF6&hide_border=true" width="49%" alt="Top Languages" />
+  
   <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=radical&card_height=170&hide_border=true&include_all_commits=true"
-    width="100%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=radical&card_height=170&hide_border=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
 </p>
 
+<!-- <hr>
+## 🏆 GitHub Achievements
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
+</p>
 
+## 📈 Coding Activity Graph
 
-<hr> 
-
-
-
-
-
-
-
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=minanasser&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="GitHub Streak" width="49%" />
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=radical&background=000000&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&excludeDaysLabel=8B5CF6" alt="Top Languages" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" width="49%" /> 
-</p>  -->
-
-
- ### 🐍 Contribution Snake 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinaNasser&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="90%" alt="Activity Graph"/>
+</p>
+ذذذ -->
+## 🐍 Contribution Snake 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture> 
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" width="100%" />
+</picture>
 
 <br/>
+
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" alt="Footer" />
 </p>
-  
-
-
-<!-- <h3 align="center">📊 GitHub Stats</h3> -->
-
-<!-- <hr>
-<div align="center" >
-<a  href="https://github.com/SP-XD">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details> -->
-
-<!-- <hr></hr>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/ -->
-
-<!-- </div>
-<hr> -->
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&locale=en"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minanasser"  />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minanasser&show_icons=true&locale=en&layout=compact"  /> -->
-<!--
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=donut)](https://github.com/minanasser/github-readme-stats)
-
-</div> -->
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minanasser&show_icons=true&locale=en&layout=compact"  />
-  </p> -->
-
-<!-- <div align="center">
- <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="100px"> GitHub Stats
-</div> -->
