@@ -28,7 +28,6 @@
 </p>
 
 <hr>
-
 ## 🤝 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mina-nasser-al5al/" target="_blank">
