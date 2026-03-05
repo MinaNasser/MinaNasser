@@ -28,6 +28,7 @@
 
 - 📧 **Email:** [minanasser82018@gmail.com](mailto:minanasser82018@gmail.com)  
 - 💼 **LinkedIn:** [Mina Nasser](https://www.linkedin.com/in/mina-nasser-al5al/)
+- 🎥 **Youtube** [Mina Nasser](https://www.youtube.com/@al5al207)
 
 <p align="center">
   <a href="https://portfolio-website-pearl-five-19.vercel.app/">
@@ -35,7 +36,7 @@
   </a>
 </p>
 
-<hr>
+<!-- <hr>
 ## 🤝 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mina-nasser-al5al/" target="_blank">
@@ -47,7 +48,7 @@
   <a href="https://www.youtube.com/@al5al207" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="40" />
   </a>
-</p>
+</p> -->
 
 <hr>
 
