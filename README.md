@@ -101,8 +101,11 @@
 </p>
 
 
+
 <p align="center">
+  
   <!-- Top Languages -->
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=radical&background=000000&border=8B5CF6&hide_border=true" width="49%" alt="Top Languages" />
   
   <!-- GitHub Stats -->
@@ -122,7 +125,12 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinaNasser&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="90%" alt="Activity Graph"/>
 </p>
-ذذذ -->
+
+![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=languages)
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=contributions)
+![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=top-repos)
+
 ## 🐍 Contribution Snake 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
