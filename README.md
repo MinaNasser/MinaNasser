@@ -24,7 +24,7 @@
 </p>
 
 
-### 📫 Contact Me
+### 🤝📫 Contact Me
 
 - 📧 **Email:** [minanasser82018@gmail.com](mailto:minanasser82018@gmail.com)  
 - 💼 **LinkedIn:** [Mina Nasser](https://www.linkedin.com/in/mina-nasser-al5al/)
@@ -35,20 +35,6 @@
     <img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge" alt="Portfolio" width="220" height="60" />
   </a>
 </p>
-
-<!-- <hr>
-## 🤝 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mina-nasser-al5al/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
-  </a>
-  <a href="https://www.instagram.com/mina_al5al/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40" />
-  </a>
-  <a href="https://www.youtube.com/@al5al207" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="40" />
-  </a>
-</p> -->
 
 <hr>
 
@@ -123,7 +109,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=radical&card_height=170&hide_border=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
 </p>
 
-<!-- <hr>
+<hr>
 ## 🏆 GitHub Achievements
 
 <p align="center">
