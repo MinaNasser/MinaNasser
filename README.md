@@ -124,10 +124,17 @@
 </p>
 -->
 
-![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&theme=dracula)
-![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=languages&theme=dracula)
-![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=contributions&theme=dracula)
-![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=top-repos&theme=dracula)
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&theme=dracula" width="45%" />
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=languages&theme=dracula" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=contributions&theme=dracula" width="45%" />
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=top-repos&theme=dracula" width="45%" />
+</p>
 
 ## 🐍 Contribution Snake 
 <picture>
