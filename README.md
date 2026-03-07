@@ -113,23 +113,21 @@
 </p>
 
 <hr>
-
+<!--
 ## 🏆 GitHub Achievements
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
 </p>
-
 ## 📈 Coding Activity Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinaNasser&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="90%" alt="Activity Graph"/>
 </p>
+-->
 
-![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser)
-![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=languages)
-![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=contributions)
-![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=top-repos)
+![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&theme=dracula)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=languages&theme=dracula)
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=contributions&theme=dracula)
+![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=top-repos&theme=dracula)
 
 ## 🐍 Contribution Snake 
 <picture>
