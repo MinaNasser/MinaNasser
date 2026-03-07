@@ -100,8 +100,8 @@
   />
 </p>
 <p align="center">
-  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&theme=radical" width="49%" />
-  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=languages&theme=radical" width="49%" />
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&theme=radical&border_radius=14" width="49%" />
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=languages&theme=radical&border_radius=14" width="49%" />
 </p>
 
 
