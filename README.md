@@ -100,7 +100,7 @@
   />
 </p>
 <p align="center">
-  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&theme=dracula" width="49%" />
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&theme=radical" width="49%" />
   <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=languages&theme=dracula" width="49%" />
 </p>
 
