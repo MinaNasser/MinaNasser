@@ -99,21 +99,22 @@
     width="100%"
   />
 </p>
-
-
-
 <p align="center">
-  
-  <!-- Top Languages -->
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=radical&background=000000&border=8B5CF6&hide_border=true" width="49%" alt="Top Languages" />
-  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=radical&card_height=170&hide_border=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&theme=dracula" width="49%" />
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=languages&theme=dracula" width="49%" />
 </p>
 
+
+
 <hr>
+
+
 <!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minanasser&layout=compact&theme=radical&background=000000&border=8B5CF6&hide_border=true" width="49%" alt="Top Languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=minanasser&show_icons=true&theme=radical&card_height=170&hide_border=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+</p>
 ## 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=minanasser&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
@@ -122,19 +123,16 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinaNasser&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="90%" alt="Activity Graph"/>
 </p>
--->
-
 ## 📊 GitHub Statistics
-
 <p align="center">
   <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&theme=dracula" width="45%" />
   <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=languages&theme=dracula" width="45%" />
 </p>
-
 <p align="center">
   <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=contributions&theme=dracula" width="45%" />
   <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=top-repos&theme=dracula" width="45%" />
 </p>
+-->
 
 ## 🐍 Contribution Snake 
 <picture>
