@@ -8,10 +8,6 @@
 </div>
 <hr>
 
-
-
-
-
 ## 👨‍💻 About Me
 
 <p align="center">
