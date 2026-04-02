@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=460&lines=HI%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;&color=8B5CF6" alt="Typing Animation" />
 </div>
 
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=500&center=true&width=500&lines=HI%2C+I'm+Full+Stack+Developer+@+DMS+%F0%9F%91%8B;&color=8B5CF6" alt="Typing Animation" />
 </div>
