@@ -137,9 +137,14 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" width="100%" />
-</picture> -->
+</picture>
 ![GitHub Snake Game](https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake.svg)
-
+ -->
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake.svg" width="100%" />
+</picture>
 <br/>
 
 <p align="center">
