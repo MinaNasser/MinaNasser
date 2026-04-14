@@ -2,15 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=460&lines=HI%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;&color=00A86B" alt="Typing Animation" />
 </div>
 
-
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=500&center=true&width=500&lines=HI%2C+I'm+Full+Stack+Developer+%40+DMS+%F0%9F%91%8B;&color=00A86B" alt="Typing Animation" />
 </div>
 <hr>
 
 ## 👨‍💻 About Me
-
 <p align="center">
   <img src="https://img.shields.io/badge/.NET%20Full%20Stack-00A86B?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Full Stack" />
   <img src="https://img.shields.io/badge/Software%20Engineer-00A86B?style=for-the-badge" alt="Software Engineer" />
