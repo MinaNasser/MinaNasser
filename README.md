@@ -7,9 +7,6 @@
 </div>
 
 
-
-
-
 <hr>
 
 ## 👨‍💻 About Me
