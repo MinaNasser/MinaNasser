@@ -119,6 +119,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake-dark.svg?color_snake=00A86B&color_dots=#90EE90,#3CB371,#2E8B57,#1E5A3A,#0F3B21" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake.svg?color_snake=00A86B&color_dots=#90EE90,#3CB371,#2E8B57,#1E5A3A,#0F3B21" />
+  
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake.svg" width="100%" />
 </picture>
 
