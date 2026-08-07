@@ -7,6 +7,8 @@
 </div>
 <hr>
 
+
+
 ## 👨‍💻 About Me
 <p align="center">
   <img src="https://img.shields.io/badge/.NET%20Full%20Stack-00A86B?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Full Stack" />
@@ -17,6 +19,7 @@
   <img src="https://img.shields.io/badge/BI%20Specialist-00A86B?style=for-the-badge" alt="BI Specialist" />
   <img src="https://img.shields.io/badge/Mobile%20Developer-00A86B?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Developer" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A86B&center=true&vCenter=true&width=435&lines=.NET+Full-Stack+Web+Developer;MEAN+Stack+Developer;CRM+Developer;Mobile+Developer;BI+Analyst;BI+Specialist;Computer+Science" alt="Roles Typing SVG" />
