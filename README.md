@@ -1,14 +1,26 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00A86B&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;Software+Engineer+%7C+.NET+Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+Web+%26+Backend+Systems+%F0%9F%9A%80" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=900&color=00A86B&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;Software+Engineer+%7C+.NET+Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+%26+Maintainable+Software+%F0%9F%9A%80" alt="Typing Animation" />
 
 <br/>
 
-<a href="https://github.com/MinaNasser">
-  <img src="https://img.shields.io/github/followers/MinaNasser?label=Followers&style=for-the-badge&color=00A86B" alt="GitHub Followers" />
-</a>
-<a href="https://github.com/MinaNasser?tab=repositories">
-  <img src="https://img.shields.io/github/stars/MinaNasser?label=Stars&style=for-the-badge&color=00A86B" alt="GitHub Stars" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=MinaNasser&label=Profile%20Views&color=00A86B&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p>
+  <a href="https://github.com/MinaNasser">
+    <img src="https://img.shields.io/github/followers/MinaNasser?label=Followers&style=for-the-badge&color=00A86B" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/MinaNasser?tab=repositories">
+    <img src="https://img.shields.io/github/stars/MinaNasser?label=Stars&style=for-the-badge&color=00A86B" alt="GitHub Stars" />
+  </a>
+</p>
+
+<br/>
+
+<a href="https://portfolio-website-pearl-five-19.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00A86B?style=for-the-badge" alt="Portfolio" />
 </a>
 
 </div>
@@ -17,33 +29,24 @@
 
 ## 👨‍💻 About Me
 
-I'm **Mina Nasser**, a **Software Engineer** specializing in **.NET Full-Stack Development**.
+Hi! I'm **Mina Nasser**, a **Software Engineer** focused on building scalable, maintainable, and production-ready applications.
 
-I enjoy designing and building scalable applications, RESTful APIs, database-driven systems, and modern web experiences.
+My primary focus is **.NET Full-Stack Development**, with strong experience across backend engineering, modern frontend development, databases, APIs, and application architecture.
 
-### 🚀 What I Do
+I enjoy turning complex business requirements into clean, reliable, and maintainable software solutions.
 
-* 💻 Build **.NET & C# backend applications**
-* 🌐 Develop modern **Angular & TypeScript frontends**
-* 🔌 Design and integrate **RESTful APIs**
-* 🗄️ Work with **SQL Server, PostgreSQL, MySQL & MongoDB**
-* 🏗️ Apply **Clean Architecture & SOLID principles**
-* 🔐 Build authentication & authorization systems
-* ⚡ Develop real-time applications using **SignalR**
-* 🐳 Containerize applications using **Docker**
-* ☁️ Work with **Cloud & DevOps technologies**
-* 📊 Build data-driven and business-oriented solutions
+### 🚀 Engineering Focus
 
-<br/>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Software%20Engineer-00A86B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/.NET%20Full--Stack-00A86B?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23%20Developer-00A86B?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular%20Developer-00A86B?style=for-the-badge&logo=angular&logoColor=white" />
-
-</p>
+* ⚙️ **.NET / ASP.NET Core & C#**
+* 🌐 **Angular & TypeScript**
+* 🔌 **RESTful APIs & Backend Services**
+* 🗄️ **SQL Server & Relational Databases**
+* 🏗️ **Clean Architecture & SOLID Principles**
+* 🔐 **Authentication, Authorization & JWT**
+* ⚡ **Real-Time Applications with SignalR**
+* 🐳 **Docker & Containerization**
+* ☁️ **Cloud & DevOps**
+* 📈 **Scalable Business Applications**
 
 ---
 
@@ -53,7 +56,29 @@ I enjoy designing and building scalable applications, RESTful APIs, database-dri
 
 ### 🏢 Software Engineer @ Nile United
 
-**Building scalable applications, APIs, business systems & modern web solutions.**
+**Software Engineering • .NET • APIs • Business Systems • Full-Stack Development**
+
+</div>
+
+---
+
+## 🧠 Core Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,sqlserver,postgres,mongodb,docker,kubernetes,git" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/.NET-00A86B?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-00A86B?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET%20Core-00A86B?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-00A86B?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-00A86B?style=for-the-badge&logo=typescript&logoColor=white" />
 
 </div>
 
@@ -63,150 +88,88 @@ I enjoy designing and building scalable applications, RESTful APIs, database-dri
 
 ### 💻 Languages
 
-<p align="left">
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,c,js,ts,html,css,dart" />
+### 🖥️ Frontend
 
-</p>
-
----
-
-### 🖥️ Frontend Development
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nextjs,redux,vite,tailwind,sass,bootstrap" />
-
-</p>
-
-**Frontend Technologies**
-
-* Angular
-* TypeScript
-* JavaScript
-* HTML5
-* CSS3
-* Next.js
-* Redux
-* Tailwind CSS
-* Bootstrap
-* SASS
-* Vite
-
----
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
 
 ### ⚙️ Backend & APIs
 
-<p align="left">
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,graphql" />
-
-</p>
-
-**Backend Technologies**
-
-* .NET / ASP.NET Core
-* C#
-* Web APIs
-* REST APIs
-* Entity Framework Core
-* LINQ
-* SignalR
-* gRPC
-* Node.js
-* Express.js
-* GraphQL
-* Authentication & Authorization
-* JWT
-
----
+**Also:** REST APIs • LINQ • SignalR • gRPC • JWT • Authentication & Authorization
 
 ### 🗄️ Databases
 
-<p align="left">
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
-<img src="https://skillicons.dev/icons?i=sqlserver,mysql,postgres,mongodb,firebase" />
+### 🏗️ Architecture & Engineering
 
-</p>
-
-* Microsoft SQL Server
-* PostgreSQL
-* MySQL
-* MongoDB
-* Firebase
-* Entity Framework Core
-
----
-
-### 🏗️ Architecture & Development Practices
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Clean%20Architecture-00A86B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SOLID-00A86B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Repository%20Pattern-00A86B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Unit%20of%20Work-00A86B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Dependency%20Injection-00A86B?style=for-the-badge" />
-
-</p>
-
----
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-00A86B?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-00A86B?style=for-the-badge)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-00A86B?style=for-the-badge)
+![Unit of Work](https://img.shields.io/badge/Unit%20of%20Work-00A86B?style=for-the-badge)
+![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-00A86B?style=for-the-badge)
 
 ### ☁️ DevOps & Cloud
 
-<p align="left">
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,gcp,nginx,linux,azure" />
+### 🧰 Tools
 
-</p>
-
-* Docker
-* Kubernetes
-* Jenkins
-* Azure
-* AWS
-* Google Cloud
-* Nginx
-* Linux
-* CI/CD
-* Containerization
-
----
-
-### 🧰 Tools & Platforms
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,powershell,vercel,notion" />
-
-</p>
-
-* Git
-* GitHub
-* Visual Studio
-* VS Code
-* PowerShell
-* Vercel
-* Notion
-* Postman
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 ---
 
-### 🎨 Design & Creative Tools
+## 🎯 What I Build
 
-<p align="left">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,ps" />
+|    🏢 Business Systems   |   🌐 Web Applications   |   🔌 Backend Services  |
+| :----------------------: | :---------------------: | :--------------------: |
+| CRM & Management Systems |   Modern Angular Apps   |      RESTful APIs      |
+|   Scheduling Platforms   | Full-Stack Applications | Authentication Systems |
+|   Data-Driven Solutions  |  Responsive Interfaces  |   Real-Time Services   |
 
-</p>
-
-* Figma
-* Adobe Photoshop
-* Adobe Audition
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -227,45 +190,58 @@ I enjoy designing and building scalable applications, RESTful APIs, database-dri
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake-dark.svg?color_snake=00A86B&color_dots=#90EE90,#3CB371,#2E8B57,#1E5A3A,#0F3B21"
-  />
 
 <source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake.svg?color_snake=00A86B&color_dots=#90EE90,#3CB371,#2E8B57,#1E5A3A,#0F3B21"
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake-dark.svg?color_snake=00A86B&color_dots=#90EE90,#3CB371,#2E8B57,#1E5A3A,#0F3B21"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake.svg?color_snake=00A86B&color_dots=#90EE90,#3CB371,#2E8B57,#1E5A3A,#0F3B21"
 />
 
 <img
- alt="GitHub Contribution Snake"
- src="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake.svg"
- width="100%"
-/> </picture>
+src="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake.svg"
+alt="GitHub Contribution Snake"
+width="100%"
+/>
+
+</picture>
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="mailto:minanasser82018@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00A86B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/📧%20Email-00A86B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <a href="https://www.linkedin.com/in/mina-nasser-al5al/">
-  <img src="https://img.shields.io/badge/LinkedIn-00A86B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-00A86B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="https://www.youtube.com/@al5al207">
-  <img src="https://img.shields.io/badge/YouTube-00A86B?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <img src="https://img.shields.io/badge/🎥%20YouTube-00A86B?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 
 <a href="https://portfolio-website-pearl-five-19.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-00A86B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-00A86B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
+
+<br/><br/>
+
+### 📩 Email
+
+**[minanasser82018@gmail.com](mailto:minanasser82018@gmail.com)**
+
+### 🌐 Portfolio
+
+**https://portfolio-website-pearl-five-19.vercel.app/**
 
 </div>
 
@@ -273,13 +249,14 @@ I enjoy designing and building scalable applications, RESTful APIs, database-dri
 
 <div align="center">
 
-### 💡 "Turning ideas into scalable software."
+### 💡 Turning Ideas Into Scalable Software.
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00A86B&height=120&section=footer" alt="Footer" />
 
 </div>
+
 
 <!--
 <div align="center">
