@@ -1,4 +1,288 @@
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00A86B&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;Software+Engineer+%7C+.NET+Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+Web+%26+Backend+Systems+%F0%9F%9A%80" alt="Typing Animation" />
+
+<br/>
+
+<a href="https://github.com/MinaNasser">
+  <img src="https://img.shields.io/github/followers/MinaNasser?label=Followers&style=for-the-badge&color=00A86B" alt="GitHub Followers" />
+</a>
+<a href="https://github.com/MinaNasser?tab=repositories">
+  <img src="https://img.shields.io/github/stars/MinaNasser?label=Stars&style=for-the-badge&color=00A86B" alt="GitHub Stars" />
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Mina Nasser**, a **Software Engineer** specializing in **.NET Full-Stack Development**.
+
+I enjoy designing and building scalable applications, RESTful APIs, database-driven systems, and modern web experiences.
+
+### 🚀 What I Do
+
+* 💻 Build **.NET & C# backend applications**
+* 🌐 Develop modern **Angular & TypeScript frontends**
+* 🔌 Design and integrate **RESTful APIs**
+* 🗄️ Work with **SQL Server, PostgreSQL, MySQL & MongoDB**
+* 🏗️ Apply **Clean Architecture & SOLID principles**
+* 🔐 Build authentication & authorization systems
+* ⚡ Develop real-time applications using **SignalR**
+* 🐳 Containerize applications using **Docker**
+* ☁️ Work with **Cloud & DevOps technologies**
+* 📊 Build data-driven and business-oriented solutions
+
+<br/>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Software%20Engineer-00A86B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/.NET%20Full--Stack-00A86B?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23%20Developer-00A86B?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular%20Developer-00A86B?style=for-the-badge&logo=angular&logoColor=white" />
+
+</p>
+
+---
+
+## 💼 Current Role
+
+<div align="center">
+
+### 🏢 Software Engineer @ Nile United
+
+**Building scalable applications, APIs, business systems & modern web solutions.**
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=cs,cpp,c,js,ts,html,css,dart" />
+
+</p>
+
+---
+
+### 🖥️ Frontend Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nextjs,redux,vite,tailwind,sass,bootstrap" />
+
+</p>
+
+**Frontend Technologies**
+
+* Angular
+* TypeScript
+* JavaScript
+* HTML5
+* CSS3
+* Next.js
+* Redux
+* Tailwind CSS
+* Bootstrap
+* SASS
+* Vite
+
+---
+
+### ⚙️ Backend & APIs
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,graphql" />
+
+</p>
+
+**Backend Technologies**
+
+* .NET / ASP.NET Core
+* C#
+* Web APIs
+* REST APIs
+* Entity Framework Core
+* LINQ
+* SignalR
+* gRPC
+* Node.js
+* Express.js
+* GraphQL
+* Authentication & Authorization
+* JWT
+
+---
+
+### 🗄️ Databases
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=sqlserver,mysql,postgres,mongodb,firebase" />
+
+</p>
+
+* Microsoft SQL Server
+* PostgreSQL
+* MySQL
+* MongoDB
+* Firebase
+* Entity Framework Core
+
+---
+
+### 🏗️ Architecture & Development Practices
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Clean%20Architecture-00A86B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SOLID-00A86B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Repository%20Pattern-00A86B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Unit%20of%20Work-00A86B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dependency%20Injection-00A86B?style=for-the-badge" />
+
+</p>
+
+---
+
+### ☁️ DevOps & Cloud
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,gcp,nginx,linux,azure" />
+
+</p>
+
+* Docker
+* Kubernetes
+* Jenkins
+* Azure
+* AWS
+* Google Cloud
+* Nginx
+* Linux
+* CI/CD
+* Containerization
+
+---
+
+### 🧰 Tools & Platforms
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,powershell,vercel,notion" />
+
+</p>
+
+* Git
+* GitHub
+* Visual Studio
+* VS Code
+* PowerShell
+* Vercel
+* Notion
+* Postman
+
+---
+
+### 🎨 Design & Creative Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=figma,ps" />
+
+</p>
+
+* Figma
+* Adobe Photoshop
+* Adobe Audition
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-psi-eosin.vercel.app?user=MinaNasser&theme=radical&border_radius=14&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=220" width="100%" />
+
+<br/><br/>
+
+<img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&theme=radical&border_radius=14" width="49%" />
+
+<img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=MinaNasser&type=languages&theme=radical&border_radius=14" width="49%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake-dark.svg?color_snake=00A86B&color_dots=#90EE90,#3CB371,#2E8B57,#1E5A3A,#0F3B21"
+  />
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake.svg?color_snake=00A86B&color_dots=#90EE90,#3CB371,#2E8B57,#1E5A3A,#0F3B21"
+/>
+
+<img
+ alt="GitHub Contribution Snake"
+ src="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake.svg"
+ width="100%"
+/> </picture>
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:minanasser82018@gmail.com">
+  <img src="https://img.shields.io/badge/Email-00A86B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://www.linkedin.com/in/mina-nasser-al5al/">
+  <img src="https://img.shields.io/badge/LinkedIn-00A86B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://www.youtube.com/@al5al207">
+  <img src="https://img.shields.io/badge/YouTube-00A86B?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+
+<a href="https://portfolio-website-pearl-five-19.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00A86B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Turning ideas into scalable software."
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00A86B&height=120&section=footer" alt="Footer" />
+
+</div>
+
+<!--
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=520&lines=Hi%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;&color=00A86B" alt="Typing Animation" />
 </div>
 
@@ -128,7 +412,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00A86B&height=100&section=footer" alt="Footer" />
 </p>
 
-<!--
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=460&lines=HI%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;&color=8B5CF6" alt="Typing Animation" />
 </div>
