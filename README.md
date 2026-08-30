@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=460&lines=HI%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;&color=00A86B" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=520&lines=Hi%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;&color=00A86B" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=500&center=true&width=500&lines=HI%2C+I'm+Softwere+Engineer+%40+Nile+United+%F0%9F%91%8B;&color=00A86B" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=500&center=true&width=600&lines=Software+Engineer+%40+Nile+United+%F0%9F%92%BB;&color=00A86B" alt="Typing Animation" />
 </div>
+
 <hr>
+
 
 ## 👨‍💻 About Me
 <p align="center">
