@@ -31,7 +31,7 @@
 
 Hi! I'm **Mina Nasser**, a **Software Engineer** focused on building scalable, maintainable, and production-ready applications.
 
-My primary focus is **.NET Full-Stack Development**, with strong experience across backend engineering, modern frontend development, databases, APIs, and application architecture.
+My primary focus is **.NET Full-Stack Development**, with strong experience across backend engineering, modern frontend development, databases, APIs, application architecture, authentication, and DevOps.
 
 I enjoy turning complex business requirements into clean, reliable, and maintainable software solutions.
 
@@ -44,6 +44,7 @@ I enjoy turning complex business requirements into clean, reliable, and maintain
 * 🏗️ **Clean Architecture & SOLID Principles**
 * 🔐 **Authentication, Authorization & JWT**
 * ⚡ **Real-Time Applications with SignalR**
+* 🔄 **Background Processing with Hangfire**
 * 🐳 **Docker & Containerization**
 * ☁️ **Cloud & DevOps**
 * 📈 **Scalable Business Applications**
@@ -84,9 +85,9 @@ I enjoy turning complex business requirements into clean, reliable, and maintain
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
@@ -95,7 +96,9 @@ I enjoy turning complex business requirements into clean, reliable, and maintain
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 
-### 🖥️ Frontend
+---
+
+## 🖥️ Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
@@ -105,18 +108,49 @@ I enjoy turning complex business requirements into clean, reliable, and maintain
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
 
-### ⚙️ Backend & APIs
+---
+
+## ⚙️ Backend & APIs
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
 
-**Also:** REST APIs • LINQ • SignalR • gRPC • JWT • Authentication & Authorization
+### 🔌 API & Communication
 
-### 🗄️ Databases
+![REST API](https://img.shields.io/badge/REST%20API-00A86B?style=for-the-badge)
+![LINQ](https://img.shields.io/badge/LINQ-00A86B?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-00A86B?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-00A86B?style=for-the-badge\&logo=grpc\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-00A86B?style=for-the-badge\&logo=swagger\&logoColor=white)
+
+---
+
+## 🧩 Libraries & Frameworks
+
+![MediatR](https://img.shields.io/badge/MediatR-00A86B?style=for-the-badge)
+![FluentValidation](https://img.shields.io/badge/FluentValidation-00A86B?style=for-the-badge)
+![Mapster](https://img.shields.io/badge/Mapster-00A86B?style=for-the-badge)
+![Hangfire](https://img.shields.io/badge/Hangfire-00A86B?style=for-the-badge)
+![Serilog](https://img.shields.io/badge/Serilog-00A86B?style=for-the-badge)
+
+---
+
+## 🔐 Authentication & Security
+
+![JWT](https://img.shields.io/badge/JWT-00A86B?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![ASP.NET Identity](https://img.shields.io/badge/ASP.NET%20Identity-00A86B?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-00A86B?style=for-the-badge)
+![Authorization](https://img.shields.io/badge/Authorization-00A86B?style=for-the-badge)
+![OAuth](https://img.shields.io/badge/OAuth-00A86B?style=for-the-badge)
+
+---
+
+## 🗄️ Databases
 
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
@@ -124,15 +158,22 @@ I enjoy turning complex business requirements into clean, reliable, and maintain
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
-### 🏗️ Architecture & Engineering
+---
+
+## 🏗️ Architecture & Engineering
 
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-00A86B?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-00A86B?style=for-the-badge)
 ![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-00A86B?style=for-the-badge)
 ![Unit of Work](https://img.shields.io/badge/Unit%20of%20Work-00A86B?style=for-the-badge)
 ![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-00A86B?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-00A86B?style=for-the-badge)
+![Middleware](https://img.shields.io/badge/Custom%20Middleware-00A86B?style=for-the-badge)
+![Background Jobs](https://img.shields.io/badge/Background%20Jobs-00A86B?style=for-the-badge)
 
-### ☁️ DevOps & Cloud
+---
+
+## ☁️ DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
@@ -142,8 +183,12 @@ I enjoy turning complex business requirements into clean, reliable, and maintain
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-00A86B?style=for-the-badge)
+![Containerization](https://img.shields.io/badge/Containerization-00A86B?style=for-the-badge)
 
-### 🧰 Tools
+---
+
+## 🧰 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -152,6 +197,15 @@ I enjoy turning complex business requirements into clean, reliable, and maintain
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
+
+---
+
+## 🎨 Design & Creative
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
+![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF?style=for-the-badge\&logo=adobeaudition\&logoColor=white)
 
 ---
 
@@ -190,28 +244,30 @@ I enjoy turning complex business requirements into clean, reliable, and maintain
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake-dark.svg"
-  />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake.svg"
-  />
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake-dark.svg"
+/>
 
-  <img
-    src="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake.svg"
+/>
+
+<img
+src="https://raw.githubusercontent.com/MinaNasser/MinaNasser/output/github-snake.svg"
+alt="GitHub Contribution Snake"
+width="100%"
+/>
+
 </picture>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -233,13 +289,13 @@ I enjoy turning complex business requirements into clean, reliable, and maintain
 
 <br/><br/>
 
-### 📩 Email
+📧 **Email:** [minanasser82018@gmail.com](mailto:minanasser82018@gmail.com)
 
-**[minanasser82018@gmail.com](mailto:minanasser82018@gmail.com)**
+🌐 **Portfolio:** [portfolio-website-pearl-five-19.vercel.app](https://portfolio-website-pearl-five-19.vercel.app/)
 
-### 🌐 Portfolio
+💼 **LinkedIn:** [linkedin.com/in/mina-nasser-al5al](https://www.linkedin.com/in/mina-nasser-al5al/)
 
-**https://portfolio-website-pearl-five-19.vercel.app/**
+🎥 **YouTube:** [youtube.com/@al5al207](https://www.youtube.com/@al5al207)
 
 </div>
 
