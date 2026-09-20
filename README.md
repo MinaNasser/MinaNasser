@@ -9,13 +9,10 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minanasser82018@gmail.com)
 
 <hr style="width: 80%; border: 1px solid #00A86B; border-radius: 5px; margin-top: 20px; margin-bottom: 20px;">
-
 <!-- GitHub Trophies Gamification -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=MinaNasser&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title-text-color=00A86B" alt="GitHub Trophies" />
 </a>
-
-
 
 </div>
 
