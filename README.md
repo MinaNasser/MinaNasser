@@ -1,21 +1,13 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00A86B&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Mina+Nasser+Enjilizy+%F0%9F%91%8B;Software+Engineer+%7C+Backend+%26+.NET+Specialist;Building+Scalable+Architecture+%26+Clean+Code+%E2%9A%99%EF%B8%8F" alt="Typing Animation" />
-
 <br/>
-
-
-
 
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-pearl-five-19.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-nasser-al5al/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minanasser82018@gmail.com)
 
 <hr style="width: 80%; border: 1px solid #00A86B; border-radius: 5px; margin-top: 20px; margin-bottom: 20px;">
-<!-- GitHub Trophies Gamification 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=MinaNasser&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title-text-color=00A86B" alt="GitHub Trophies" />
-</a> -->
 
 
 </div>
